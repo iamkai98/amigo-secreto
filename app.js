@@ -1,0 +1,11 @@
+
+
+function adicionarAmigo(){
+
+
+}
+
+function sortearAmigo(){
+
+    
+}
